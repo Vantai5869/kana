@@ -1,0 +1,16 @@
+@import "./banner.css";
+@import "./why-list.css";
+@import "./nature-based.css";
+@import "./simple-steps.css";
+@import "./comming-soon.css";
+@import "./listed-form.css";
+* {
+    margin:0;
+    padding: 0;
+    box-sizing: border-box;
+}
+body {
+    max-width: 1440px;
+    margin: 0 auto;
+    overflow: hidden;
+}
