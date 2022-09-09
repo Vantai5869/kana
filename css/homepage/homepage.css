@@ -318,7 +318,7 @@
   color: #2C303B;
 }
 .uk-nature .nature-box {
-  width: 49.8%;
+  width: 49.815%;
   height: 100%;
 }
 .uk-nature .nature-box img {
@@ -764,7 +764,7 @@
   }
 
   .homepgae-showcase .showcase-items .item .item-img {
-    width: auto;
+    /* width: auto; */
     text-align: left;
     margin-bottom: 18px;
   }
@@ -942,7 +942,6 @@
   display: flex;
   flex-direction: column;
   align-items: center;
-  
 }
 .icon-ab-circle{
   height: 20px;
