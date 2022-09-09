@@ -282,7 +282,8 @@
 }
 .homepgae-showcase .item-des span {
   font-size: 14px;
-  color: gray;
+  /* color: gray; */
+  color: #2C303B;
 }
 .uk-nature {
   width: 100%;
@@ -934,4 +935,21 @@
   .homepage .take-a-look .visit-directory .visit-button .learn-more span {
     margin-right: 8px;
   }
+}
+.icon-ab-wapper{
+  position: relative;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  
+}
+.icon-ab-circle{
+  height: 20px;
+  top: 0;
+  left: 0;
+  right: 0;
+  bottom: 0;
+  margin: auto;
+  position: absolute;
+  transform: translateY(-4px);
 }
